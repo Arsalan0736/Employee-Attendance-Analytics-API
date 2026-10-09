@@ -1,0 +1,22 @@
+# Environment / secrets
+.env
+.env.*
+*.secret
+
+# Python artefacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.iml
+
+# OS artefacts
+Thumbs.db
+.DS_Store
